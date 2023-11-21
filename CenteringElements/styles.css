@@ -1,0 +1,12 @@
+.container {
+    position: relative; /* Make the container positioned relative */
+    width: 500px; /* Set the width of the container */
+    height: 300px; /* Set the height of the container */
+    margin: 0 auto; /* Set the horizontal margins to auto to center the container horizontally */
+    top: 50%; /* Set the top position to 50% to vertically center the container */
+    transform: translateY(-50%); /* Apply negative vertical translation to offset the top positioning */
+    background-color: #eee; /* Set the background color of the container */
+    border: 1px solid #ccc; /* Set the border style and color of the container */
+    padding: 20px; /* Add padding to the container to create a spacing between the content and the container edges */
+  }
+  
