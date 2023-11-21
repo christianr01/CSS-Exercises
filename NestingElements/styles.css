@@ -1,0 +1,16 @@
+.parent {
+    width: 200px;
+    height: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.child {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+}
